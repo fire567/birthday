@@ -1,0 +1,22 @@
+.background{
+  background-color: #fc03db;
+}
+
+.img-place{
+  padding-left: 33%;
+  padding-top: 1%;
+}
+
+.img{
+  width: 400px;
+}
+
+.congrat-up{
+  padding-left: 3%;
+  font-size: 25px;
+}
+
+.congrat-down{
+  padding-left: 21%;
+  font-size: 25px;
+}
